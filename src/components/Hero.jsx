@@ -20,7 +20,8 @@ const Hero = () => {
             <h2 className='text-blue-500 font-bold'>
                 Nice Getting to know More About Fintech
             </h2> <br />
-            <p className='text-4xl font bold py-3 text-emerald-300'>We are Eligible to provide you with more Daily works and reusable components for API for your daily functionality</p>
+            <p className='text-4xl font bold py-3 text-gray-700'>We are Eligible to provide you with more Daily works and reusable components for API for your daily functionality</p>
+            <button className='bg-orange-500 w-[500px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Start building with the best tools</button>
             <br />
             <br />
         </div>
